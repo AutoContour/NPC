@@ -6,4 +6,6 @@ dicomSubject.py is for data loadining.
 three_channel_dicomSubject.py and three_channel_fcn.py are for three-modality data training.
 
 A local training job can be run with the command:
+```bash
 python fcn.py
+```
